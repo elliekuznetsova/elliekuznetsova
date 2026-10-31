@@ -1,4 +1,4 @@
-# Hi, I'm Ellie Kuznetsova 👋
+# Ellie Kuznetsova 👋
 
 I research code-switching, bilingualism, and NLP for multilingual communities.
 MS in Computational Social Science, UC San Diego · MA in Applied Linguistics & TESL, Northern Arizona University.
